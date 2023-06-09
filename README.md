@@ -13,3 +13,6 @@ This repository contains a layout that is like United States-International but r
 The layout file can be opened with Microsoft's Keyboard Layout Creator (MKLC) tool, which Microsoft distributes for free. After opening the file in MKLC, choosing Project -> Build DLL and Setup Package will create an installer that can be used to add this layout to Windows.
 
 **Remember** to log off and on again, in order for the changes to take effect.
+
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-input-locales-for-windows-language-packs?view=windows-11
+
